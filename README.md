@@ -7,11 +7,16 @@
   Anaconda Navigator 1.6.4
   Windows 10
 
-Image Folders are in the clothes folder.
-/train    Training Images
-/Validation Validation Images
-/userdata   Test Images
+#### Image Folders are in the clothes folder.
 
-Note:
-Copy the clothes folder to your local drive.
-Update the STARTDIR variable to point to your path for the "clothes" folder.
+  /train    Training Images
+
+  /Validation Validation Images
+
+  /userdata   Test Images
+
+#### Note:
+
+  Copy the clothes folder to your local drive.
+
+  Update the STARTDIR variable to point to your path for the "clothes" folder.
