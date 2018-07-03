@@ -1,7 +1,7 @@
 #  Clothes Classifier 
-# Tensorflow - Keras
+## Tensorflow - Keras
 
-## My Setup
+### My Setup
   TensorFlow GPU Version: 1.8.0
   Python 3.6
   Anaconda Navigator 1.6.4
